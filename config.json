@@ -1,8 +1,8 @@
 {
-  "token": "YOUR_TOKEN",
-  "clientId": "YOUR_CLIENT_ID",
-  "guildId": "YOUR_GUILD_ID",
+  "token": "$TOKEN",
+  "clientId": "$CLIENT_ID",
+  "guildId": "$GUILD_ID",
   "prefix": "*",
-  "welcomeChannel": "123456789012345678",
+  "welcomeChannel": "YOUR_CHANNEL_ID",
   "footer": "Made by Reaper © gg/ncrontop"
 }

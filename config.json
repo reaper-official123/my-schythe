@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_TOKEN",
+  "clientId": "YOUR_CLIENT_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "prefix": "*",
+  "welcomeChannel": "123456789012345678",
+  "footer": "Made by Reaper © gg/ncrontop"
+}

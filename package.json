@@ -1,0 +1,14 @@
+{
+  "name": "Scythe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ms": "^2.1.3"
+  }
+}
